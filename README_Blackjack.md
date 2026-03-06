@@ -69,7 +69,7 @@ ant run in the blackjack folder
 
 ### Authors
 Group project - L3, University of Caen Normandy, 2024–2025  
-Course: *Méthodes de conception* - Supervisor: Christophe Charrier
+Course: *Méthodes de conception* 
 
 ---
 
@@ -141,4 +141,4 @@ src/
 
 ### Auteurs
 Projet de groupe - L3, Université de Caen Normandie, 2024–2025  
-UE : *Méthodes de conception* - Chargé de TP : Christophe Charrier
+UE : *Méthodes de conception* 
