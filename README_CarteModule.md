@@ -42,7 +42,7 @@ ant run in the card folder
 
 ### Authors
 Group project - L3, University of Caen Normandy, 2025–2026  
-Course: *Méthodes de conception* - Supervisor: Christophe Charrier
+Course: *Méthodes de conception* 
 
 ---
 
@@ -88,4 +88,4 @@ ant run dans le repertoire carte
 
 ### Auteurs
 Projet de groupe - L3, Université de Caen Normandie, 2025–2026  
-UE : *Méthodes de conception* - Chargé de TP : Christophe Charrier
+UE : *Méthodes de conception* 
